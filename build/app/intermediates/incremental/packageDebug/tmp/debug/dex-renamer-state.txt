@@ -1,0 +1,4 @@
+#Wed Mar 23 07:43:21 EET 2022
+base.0=/Volumes/Mobile Apps/flutter_channel_poc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

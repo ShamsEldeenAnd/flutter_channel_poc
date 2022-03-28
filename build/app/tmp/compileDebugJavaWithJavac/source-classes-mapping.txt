@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/flutterchannel/poc/flutter_channel_poc/BuildConfig.java
+ com.flutterchannel.poc.flutter_channel_poc.BuildConfig
