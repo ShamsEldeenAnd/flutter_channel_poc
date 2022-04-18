@@ -10,6 +10,6 @@ class MainActivity: FlutterActivity() {
         GeneratedPluginRegistrant.registerWith(flutterEngine)
 
         /// configure method channel
-        FlutterChannelConfiguration(flutterEngine).configureMethodChannel()
+        FlutterChannelConfiguration(flutterEngine).configureMethodChannel(this@MainActivity)
     }
 }
